@@ -1,6 +1,6 @@
 package AppiumTests;
 import io.appium.java_client.MobileBy;
-
+//working script
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.testng.annotations.Test;
 
